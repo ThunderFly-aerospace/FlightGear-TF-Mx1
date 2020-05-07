@@ -1,6 +1,7 @@
 # FlightGear-TF-Mx1
 FlightGear multicopter model
 
+![FlightGear multicopter](arducopter.jpg)
 
 ## This is the command line parameters used to start FlightGear
 
